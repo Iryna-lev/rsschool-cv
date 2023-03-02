@@ -5,7 +5,7 @@
 ----
 ## **About me**
 ### Actively searching for the chance to apply my skills, experience and knowledge to a new career. Highly motivated. Quick learner.
----------------
+----------------
 ## **Code example**
 ```
 function removeChar(str){
