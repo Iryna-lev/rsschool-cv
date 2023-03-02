@@ -7,9 +7,10 @@
 ### Actively searching for the chance to apply my skills, experience and knowledge to a new career. Highly motivated. Quick learner.
 ---------------
 ## **Code example**
-``` function removeChar(str){
+```
+function removeChar(str){
   return str.slice(1, str.length - 1);
-};
+}
 ```
 _________________________
 ## **Eduction and Training**
